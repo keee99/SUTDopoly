@@ -4,11 +4,12 @@
 
 **Computational Thinking and Design 1D project 2020**
 **F02 Group 02**
-Koh Jia Jun
-Tan Kang Min
-Chen Qinyi
-Emmanuel J Lopez
+- Koh Jia Jun
+- Tan Kang Min
+- Chen Qinyi
+- Emmanuel J Lopez
 
+***
 
 **SUTDopoly** is a text-based boardgame that is run straight from the command line. As the name may suggest, it is a board game heavily inspired by the classic game: Monopoly.
 
