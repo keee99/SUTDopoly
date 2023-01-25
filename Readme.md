@@ -2,6 +2,14 @@
 
 # SUTDopoly!
 
+**Computational Thinking and Design 1D project 2020**
+**F02 Group 02**
+Koh Jia Jun
+Tan Kang Min
+Chen Qinyi
+Emmanuel J Lopez
+
+
 **SUTDopoly** is a text-based boardgame that is run straight from the command line. As the name may suggest, it is a board game heavily inspired by the classic game: Monopoly.
 
 
@@ -16,7 +24,9 @@ This version of SUTDopoly plays wholely on the CLI, and supports various feature
  - Play offline with multiple users on a single computer, or
  - Choose to play online across CLIs and computers! 
 
-** Do note that the current iteration of the application does NOT support online play, as the firebase realtime DB instance has been taken down.
+
+*  Do note that the current iteration of the application does NOT support online play, as the firebase realtime DB instance has been taken down.
+** Do also note that this project was created in 2020 and does not reflect my current standards of coding. Most of this source code can be heavily refactored and made more readable with functions and OOP!
 
 Screenshot of the application!
 ![Application screenshot!](/Screenshot.png)
